@@ -22,4 +22,4 @@ Explain your problem.
 
 ## Version
 - Platform: (e.g. Windows 10)
-- App: (Thyone Version)
+- App: (Version of ThyoneMC)
