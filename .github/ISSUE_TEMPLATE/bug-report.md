@@ -10,7 +10,7 @@ assignees: KTNG-3
 > Do not share your personal information.
 > (token, username, password)
 
-### Error
+## Error
 ```txt
 The error that you get.
 ```
