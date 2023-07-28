@@ -1,10 +1,10 @@
 <div align="center">
   
-# Minecraft - Thyone
+# Thyone for Minecraft
   
 [![Profile](raw_link)](goto_link)
   
-Server Builder for Minecraft Java Edition
+Utilities for Minecraft Java Edition
   
 [![LICENSE](https://badgen.net/badge/license/Apache/blue)](https://github.com/ThyoneMC/.github/blob/main/LICENSE)
 [![Github](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/ThyoneMC)
